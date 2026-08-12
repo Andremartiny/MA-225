@@ -1,1 +1,0 @@
-var e=`/static/slides/introduksjon/assets/csv.svg`;export{e as t};
