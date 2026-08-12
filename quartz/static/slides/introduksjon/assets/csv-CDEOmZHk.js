@@ -1,0 +1,1 @@
+var e=`/MA-225/static/slides/introduksjon/assets/csv.svg`;export{e as t};
