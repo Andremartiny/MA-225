@@ -1,0 +1,1 @@
+var e=``+new URL(`python.svg`,import.meta.url).href;export{e as t};

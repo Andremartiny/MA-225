@@ -1,0 +1,1 @@
+var e=``+new URL(`csv.svg`,import.meta.url).href;export{e as t};
