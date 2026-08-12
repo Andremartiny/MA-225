@@ -1,0 +1,1 @@
+var e=`/static/slides/introduksjon/assets/python.svg`;export{e as t};
